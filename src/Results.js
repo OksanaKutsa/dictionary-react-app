@@ -1,3 +1,4 @@
+import "./Dictionary.css";
 import Meaning from "./Meaning";
 
 export default function Results(props) {
