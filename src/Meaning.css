@@ -1,3 +1,10 @@
-.Meaning {
-  text-align: center;
+.Meaning h3 {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.Example {
+  font-size: 14px;
+  color: #70757a;
+  font-style: italic;
 }

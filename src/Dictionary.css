@@ -2,8 +2,9 @@
   margin: 30px 0;
   text-align: center;
 }
-.Results {
-  text-align: center;
+.Dictionary h1 {
+  font-weight: bold;
+  font-size: 18px;
 }
 section {
   background: #fcfefe;
