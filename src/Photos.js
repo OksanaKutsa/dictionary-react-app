@@ -2,7 +2,6 @@ import "./Photos.css";
 
 export default function Photos(props) {
   if (props.photos) {
-    console.log(props);
     return (
       <section className="Photos">
         <div className="row">

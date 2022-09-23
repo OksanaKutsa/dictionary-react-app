@@ -6,11 +6,22 @@ export default function App() {
     <div className="App">
       <div className="container">
         <main>
-          <Dictionary defaultKeyword="rock" />
+          <Dictionary defaultKeyword="sky" />
         </main>
-        {/* <footer className="App-footer">
-        Open-source code made by Oksana Kutsa
-      </footer> */}
+        <footer className="App-footer">
+          <a
+            href="https://github.com/OksanaKutsa/dictionary-react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            Open-source code
+          </a>{" "}
+          made by{" "}
+          <a href="http://oksanakutsa.com/" target="_blank" rel="noreferrer">
+            Oksana Kutsa
+          </a>
+        </footer>
       </div>
     </div>
   );
